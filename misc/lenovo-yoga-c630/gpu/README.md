@@ -49,7 +49,7 @@ This will result in a `linux-image-*.deb` file in the parent directory that you 
 * a630_sqe.fw
   * LINK: http://releases.linaro.org/96boards/dragonboard845c/qualcomm/firmware/
     * FILE: RB3_firmware_20190529180356-v2/18-adreno-fw/
-* a630_gmu.fw
+* a630_gmu.bin
   * LINK: http://releases.linaro.org/96boards/dragonboard845c/qualcomm/firmware/
     * FILE: RB3_firmware_20190529180356-v2/18-adreno-fw/
 * a630_zap.mdt **and** a630_zap.b0{0,1,2,3}
